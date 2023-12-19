@@ -1,0 +1,19 @@
+from distutils.errors import LibError
+from xml.etree.ElementInclude import include
+
+
+*.log
+*.pyc
+*.config
+*.json
+*.zip
+*.bat
+*.exe
+*.cfg
+*.db
+*.xz
+*.env
+*.csv
+*.db
+/inputs
+/.vscode
